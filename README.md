@@ -1,5 +1,5 @@
 # Robotics Control Lab 4.2  
-## Control de Posición del xArm Lite 6 bajo Perturbaciones Deterministas y Estocásticas
+## Control de Posición del xArm Lite 6 bajo Perturbaciones Sinusoidales y Gaussianas
 
 **Materia:** TE3001B - Fundamentación de Robótica
 **Profesor:** Nezih Nieto Gutiérrez - Modulo 4 Control de Robots  
