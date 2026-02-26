@@ -1,0 +1,15 @@
+===== METRICS SUMMARY =====
+Samples: 86
+
+RMSE per axis (x,y,z):
+[0.01215835 0.01194707 0.00179145]
+
+RMSE total: 0.017139645324815364
+
+Max absolute error per axis:
+[0.019 0.018 0.003]
+
+Max absolute error total: 0.01944222209522358
+
+Velocity mean norm: 0.08511846160824196
+Velocity max norm: 0.10307764064044153
